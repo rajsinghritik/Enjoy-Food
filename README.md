@@ -91,7 +91,7 @@ A huge shoutout to Akshay Saini 🚀 sir for being a constant source of inspirat
    <br>
    LinkedIn : linkedin.com/in/ritikraj8
 ## Website Link :
-   url : https://github.com/rajsinghritik/Amazon-Clone/
+   Github Url : https://github.com/rajsinghritik/Enjoy-Food
 
 ## Thank You
 
