@@ -3,8 +3,8 @@
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
-  <a style="" href="https://github.com/akashdeep023">
-  <img src="https://profile-counter.glitch.me/food-plaza/count.svg" />
+  <a style="" href="https://github.com/rajsinghritik">
+  <img src="https://profile-counter.glitch.me/enjoy food/count.svg" />
   </a>
 </p>
 
@@ -84,14 +84,14 @@ A huge shoutout to Akshay Saini 🚀 sir for being a constant source of inspirat
 
 ## Author
 
-Akash Deep \
-Email: ad3500476@gmail.com \
-LinkedIn : https://www.linkedin.com/in/akashdeep023/
-
-## Project Link
-
--   [1st Live Link](https://food-plaza-jack.onrender.com/)
--   [2st Live Link](https://food-plaza-jack.onrender.com/)
+## Author :
+   Ritik Raj
+   <br>
+   Email: rajsinghritik@gmail.com
+   <br>
+   LinkedIn : linkedin.com/in/ritikraj8
+## Website Link :
+   Github Url : https://github.com/rajsinghritik/Enjoy-Food
 
 ## Thank You
 
@@ -118,35 +118,36 @@ Thank you for exploring Food_Plaza! Your feedback is valuable. If you have any s
 **Restaurant Page**
 
 ![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/8bedd5de-628e-4277-a781-e87c30847bbf)
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/9ed5fc8a-a3bb-402f-846d-2cf79da9dc0a)
+
 ![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/6d7d7100-5add-4082-b290-6d28a05bf41e)
 
 **Footer Page**
 
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/ed9f45ce-28c2-4406-b1fd-fa1858f5e20c)
+
 
 **Search Page**
 
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/4f2d510e-58ac-4511-9c8d-58e950c98ba7)
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/b26f69a6-7e8e-427d-918f-8912fbded64b)
+![312396026-4f2d510e-58ac-4511-9c8d-![312396202-b26f69a6-7e8e-427d-918f-8912fbded64b](https://github.com/user-attachments/assets/4197d6ac-4899-4126-b12f-47c71a534650)
+58e950c98ba7](https://github.com/user-attachments/assets/b4ec8311-1ca7-444f-9946-c466b592ffa9)
 
 **About Page**
 
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/d0a16895-2e33-41d2-a3fe-260ecb963033)
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/89628633-f60d-4473-8604-b1762dad2995)
+
 
 **Contact Page**
 
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/dc32adce-e50e-401d-9be6-631333e7dd6d)
+![312398078-dc32adce-e50e-401d-9be6-631333e7dd6d](https://github.com/user-attachments/assets/a948aacd-d6dd-47eb-9988-cbb41ca87bc9)
 
 **Cart Page**
 
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/a255acaf-b8a5-4570-842c-6330c05dc47d)
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/a5b15743-1cde-413c-9b8f-b56ab8867d3f)
+![312398284-a255acaf-b8a5-4570-842c-6330c05dc47d](https://github.com/user-attachments/assets/b76025c6-a08f-4a9a-ab08-544de60bd2e2)
+
+![312398653-a5b15743-1cde-413c-9b8f-b56ab8867d3f](https://github.com/user-attachments/assets/d113b6b3-3e7c-40c2-879d-2f51fb9ef5d2)
 
 **SubComponent**
 
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/f65a210a-1224-4dde-ba79-e895c6af5491)
+![312400227-f65a210a-1224-4dde-ba79-e895c6af5491](https://github.com/user-attachments/assets/e89c0602-7d43-4f9f-b4d1-5fcfc7adff02)
+
 
 **Shimmer Page**
 
