@@ -123,30 +123,25 @@ Thank you for exploring Food_Plaza! Your feedback is valuable. If you have any s
 
 **Footer Page**
 
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/ed9f45ce-28c2-4406-b1fd-fa1858f5e20c)
+
 
 **Search Page**
 
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/4f2d510e-58ac-4511-9c8d-58e950c98ba7)
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/b26f69a6-7e8e-427d-918f-8912fbded64b)
 
 **About Page**
 
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/d0a16895-2e33-41d2-a3fe-260ecb963033)
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/89628633-f60d-4473-8604-b1762dad2995)
+
 
 **Contact Page**
 
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/dc32adce-e50e-401d-9be6-631333e7dd6d)
 
 **Cart Page**
 
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/a255acaf-b8a5-4570-842c-6330c05dc47d)
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/a5b15743-1cde-413c-9b8f-b56ab8867d3f)
+
 
 **SubComponent**
 
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/f65a210a-1224-4dde-ba79-e895c6af5491)
+
 
 **Shimmer Page**
 
