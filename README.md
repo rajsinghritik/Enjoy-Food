@@ -118,7 +118,7 @@ Thank you for exploring Food_Plaza! Your feedback is valuable. If you have any s
 **Restaurant Page**
 
 ![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/8bedd5de-628e-4277-a781-e87c30847bbf)
-![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/9ed5fc8a-a3bb-402f-846d-2cf79da9dc0a)
+
 ![image](https://github.com/akashdeep023/Food_Plaza/assets/126412088/6d7d7100-5add-4082-b290-6d28a05bf41e)
 
 **Footer Page**
