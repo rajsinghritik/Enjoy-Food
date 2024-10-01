@@ -48,7 +48,7 @@ class About extends React.Component {
 						<Link
 							to="profile"
 							onClick={() => {
-								this.setState({ showProfile: true });
+								this.setState({ howProfile: true });
 							}}
 						>
 							Show Profile
