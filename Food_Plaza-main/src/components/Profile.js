@@ -17,7 +17,7 @@ const Profile = () => {
 		const getUserData = async () => {
 			try {
 				const data = await fetch(
-					"https://api.github.com/users/akashdeep023"
+					"https://api.github.com/users/rajsinghritik"
 				);
 				const json = await data.json();
 				console.log(json);
