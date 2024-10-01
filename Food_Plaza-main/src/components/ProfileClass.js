@@ -7,11 +7,11 @@ class Profile extends Component {
 			count: 0,
 			count2: 10,
 			userInfo: {
-				name: "Akash Deep",
-				login: "akashdeep023",
+				name: "Ritik Raj",
+				login: "ritikraj8",
 				bio: "WEB - DEVELOPER ( MERN STACK ) | |  JAVA | PYTHON | DSA  |",
-				location: "PATNA, BIHAR",
-				html_url: "https://github.com/akashdeep023",
+				location: "Noida, Uttar Pradesh",
+				html_url: "https://github.com/rajsinghritik",
 				avatar_url:
 					"https://avatars.githubusercontent.com/u/126412088?v=4",
 				followers: 28,
@@ -21,7 +21,7 @@ class Profile extends Component {
 	}
 	async componentDidMount() {
 		console.log("Class ComponentDidMount");
-		const data = await fetch("https://api.github.com/users/akashdeep023");
+		const data = await fetch("https://api.github.com/users/rajsinghritik");
 		const json = await data.json();
 		console.log(json);
 		if (json.name) {
