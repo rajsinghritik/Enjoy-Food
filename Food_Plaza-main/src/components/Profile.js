@@ -3,11 +3,11 @@ import { useEffect, useState } from "react";
 const Profile = () => {
 	const [count, setCount] = useState(0);
 	const [user, setUser] = useState({
-		name: "Akash Deep",
-		login: "akashdeep023",
+		name: "Ritik Raj",
+		login: "ritikraj8",
 		bio: "WEB - DEVELOPER ( MERN STACK ) | |  JAVA | PYTHON | DSA  |",
 		location: "PATNA, BIHAR",
-		html_url: "https://github.com/akashdeep023",
+		html_url: "https://github.com/rajsinghritik",
 		avatar_url: "https://avatars.githubusercontent.com/u/126412088?v=4",
 		followers: 28,
 		following: 5,
