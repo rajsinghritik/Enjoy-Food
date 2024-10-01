@@ -18,7 +18,7 @@ const Footer = () => {
 							<i></i>
 							<p>
 								<a
-									href="https://www.linkedin.com/in/akashdeep023/"
+									href="https://www.linkedin.com/in/ritikraj8/"
 									target="_blank"
 								>
 									LinkedIn
@@ -29,7 +29,7 @@ const Footer = () => {
 							<i></i>
 							<p>
 								<a
-									href="https://github.com/akashdeep023"
+									href="https://github.com/rajsinghritik"
 									target="_blank"
 								>
 									GitHub
@@ -40,7 +40,7 @@ const Footer = () => {
 							<i></i>
 							<p>
 								<a
-									href="https://www.instagram.com/mr_akashdeep_/"
+									href="https://www.instagram.com/ritikrajjjput/"
 									target="_blank"
 								>
 									Instagram
