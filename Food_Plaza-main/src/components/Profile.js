@@ -6,7 +6,7 @@ const Profile = () => {
 		name: "Ritik Raj",
 		login: "ritikraj8",
 		bio: "WEB - DEVELOPER ( MERN STACK ) | |  JAVA | PYTHON | DSA  |",
-		location: "PATNA, BIHAR",
+		location: "Noida, Uttar Pradesh",
 		html_url: "https://github.com/rajsinghritik",
 		avatar_url: "https://avatars.githubusercontent.com/u/126412088?v=4",
 		followers: 28,
